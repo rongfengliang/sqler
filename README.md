@@ -1,3 +1,6 @@
+
+> fork from [sqler](https://github.com/alash3al/sqler) and update  some library deps
+
 SQLer
 =====
 > `SQL-er` is a tiny portable server enables you to write APIs using SQL query to be executed when anyone hits it, also it enables you to define validation rules so you can validate the request body/query params, as well as data transformation using simple `javascript` syntax. `sqler` uses `nginx` style configuration language ([`HCL`](https://github.com/hashicorp/hcl)) amd `javascript` engine for custom expressions.
